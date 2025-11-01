@@ -1,4 +1,4 @@
-package baitap33;
+package baitap34;
 
 public class TestMyTime {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package baitap33;
+package baitap34;
 
 public class MyTime {
     // Private instance variables
