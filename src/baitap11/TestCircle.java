@@ -1,4 +1,4 @@
-import java.util.concurrent.Callable;
+package baitap11;
 
 public class TestCircle {
     public static void main(String[] args) {
@@ -10,4 +10,3 @@ public class TestCircle {
                 + c2.getRadius() + " and area of " + c2.getArea());
     }
 }
-
