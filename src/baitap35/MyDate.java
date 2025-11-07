@@ -26,7 +26,6 @@ public class MyDate {
         this.month = month;
         this.day = day;
     }
-
     // Static utility methods
     public static boolean isLeapYear(int year) {
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
