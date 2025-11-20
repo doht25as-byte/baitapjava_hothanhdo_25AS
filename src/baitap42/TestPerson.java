@@ -2,16 +2,13 @@ package baitap42;
 
 public class TestPerson {
     public static void main(String[] args) {
-        // Create Person
-        Person p1 = new Person("John Doe", "123 Main St");
+        Person p1 = new Person("Thanh do", "Da Nang");
         System.out.println(p1);
 
-        // Create Student
-        Student s1 = new Student("Alice", "Dorm 4", "Computer Science", 2, 12000.0);
+        Student s1 = new Student("Alice", "Da nang", "Computer Science", 2, 12000.0);
         System.out.println(s1);
 
-        // Create Staff
-        Staff t1 = new Staff("Dr. Smith", "Faculty Office", "Engineering School", 75000.0);
-        System.out.println(t1);
+        Staff st1 = new Staff("Thanh do","Da Nang","Vku",  2000);
+        System.out.println(st1);
     }
 }

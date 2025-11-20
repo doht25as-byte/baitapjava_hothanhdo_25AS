@@ -6,6 +6,7 @@ public class TestShape {
         System.out.println(s1);
 
         Circle c1 = new Circle(2.5, "green", true);
+
         System.out.println(c1);
         System.out.println("Area: " + c1.getArea());
         System.out.println("Perimeter: " + c1.getPerimeter());
